@@ -1,0 +1,8 @@
+D:\экзаменЛуник\EXZAM\bin\Debug\EXZAM.exe.config
+D:\экзаменЛуник\EXZAM\bin\Debug\EXZAM.exe
+D:\экзаменЛуник\EXZAM\bin\Debug\EXZAM.pdb
+D:\экзаменЛуник\EXZAM\obj\Debug\EXZAM.csproj.AssemblyReference.cache
+D:\экзаменЛуник\EXZAM\obj\Debug\EXZAM.csproj.CoreCompileInputs.cache
+D:\экзаменЛуник\EXZAM\obj\Debug\EXZAM.exe
+D:\экзаменЛуник\EXZAM\obj\Debug\EXZAM.pdb
+D:\экзаменЛуник\EXZAM\obj\Debug\EXZAM.exe.config

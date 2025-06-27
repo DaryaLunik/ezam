@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXZAM", "EXZAM.csproj", "{9FD8D2EB-2E0A-46CB-85DB-3E4201219ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FD8D2EB-2E0A-46CB-85DB-3E4201219ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD8D2EB-2E0A-46CB-85DB-3E4201219ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD8D2EB-2E0A-46CB-85DB-3E4201219ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD8D2EB-2E0A-46CB-85DB-3E4201219ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34F52888-70B2-488F-A938-8FF632334A9C}
+	EndGlobalSection
+EndGlobal
